@@ -1,0 +1,43 @@
+ [
+  {
+    "id": 1,
+    "name": "Chocolate  Cake",
+    "image": "/public/pic4.jpeg",
+     "price": "10$",
+    "weight": "500gm",
+    "description": "Rich and moist chocolate layered cake."
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Dream",
+    "image": "/public/pic5.jpeg",
+     "price": "4$",
+    "weight": "1ps",
+    "description": "Soft vanilla sponge with buttercream frosting."
+  },
+  {
+    "id": 3,
+    "name": "Red Velvet",
+    "image": "/public/pic3.jpeg",
+     "price": "6$",
+    "weight": "300gm",
+    "description": "Classic red velvet cake with cream cheese icing."
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Delight",
+    "image": "/public/pic7.jpeg",
+     "price": "24$",
+    "weight": "500gm",
+    "description": "Fresh strawberry compote and vanilla layers."
+  },
+  {
+    "id": 5,
+    "name": "Strawberry Delight",
+    "image": "/public/pic7.jpeg",
+      "price": "2$",
+    "weight": "1ps",
+    "description": "Fresh strawberry compote and vanilla layers."
+  }
+]
+

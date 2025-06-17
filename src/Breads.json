@@ -1,0 +1,42 @@
+ [
+  {
+    "id": 1,
+    "name": "Sourdough Bread",
+    "image": "/public/b1.jpg",
+    "price": "$4.50",
+     "weight": "350 gm",
+    "description": "Naturally fermented with a crisp crust and tangy flavor."
+  },
+  {
+    "id": 2,
+    "name": "Multigrain Bread",
+    "image": "/public/b2.webp",
+    "price": "$5.00",
+     "weight": "400 gm",
+    "description": "Loaded with seeds and grains for a healthy bite."
+  },
+  {
+    "id": 3,
+    "name": "Baguette",
+    "image": "/public/b3.jpg",
+    "price": "$3.25",
+      "weight": "250 gm",
+    "description": "Classic French-style bread with a golden crust."
+  },
+  {
+    "id": 4,
+    "name": "Whole Wheat Bread",
+    "image": "/public/b4.webp",
+    "price": "$4.00",
+      "weight": "300 gm",
+    "description": "Soft and hearty with whole wheat goodness."
+  },
+  {
+    "id": 5,
+    "name": "Whole Wheat Bread",
+    "image": "/public/b4.webp",
+    "price": "$4.00",
+    "weight": "300 gm",
+    "description": "Soft and hearty with whole wheat goodness."
+  }
+]
