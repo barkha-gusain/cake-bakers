@@ -3,27 +3,27 @@
   {
     "id": 1,
     "name": "Cake",
-    "image": "/public/cake2.jpg"
+    "image": "/cake2.jpg"
   },
   {
     "id": 2,
     "name": "Cookies",
-    "image": "/public/cookie.jpg"
+    "image": "/cookie.jpg"
   },
   {
     "id": 3,
     "name": "Bread",
-    "image": "/public/bread.jpg"
+    "image": "/bread.jpg"
   },
   {
     "id": 4,
     "name": "Donuts",
-    "image": "/public/dunuts.jpg"
+    "image": "/dunuts.jpg"
   },
    {
     "id": 5,
     "name": "Cupcakes",
-    "image": "/public/cupkake.webp"
+    "image": "/cupkake.webp"
   }
 ]
 

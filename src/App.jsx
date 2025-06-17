@@ -128,12 +128,12 @@ const App = () => {
       </div>
 
       <div className="image-content">
-        <img src="/public/one.jpg" alt="Cookie Stack" />
+        <img src="/one.jpg" alt="Cookie Stack" />
       </div>
     </section>
    <div className="content-section">
   <div className="image-content">
-    <img src="/public/one.jpg" alt="Featured Cake" />
+    <img src="/one.jpg" alt="Featured Cake" />
   </div>
   <div className="text-content">
     <h2>Discover Our Signature Cakes</h2>
@@ -157,7 +157,7 @@ const App = () => {
         </p>
       </div>
     </div>
-    <img src="/public/cs3.png" alt="Cake Overlay" className="newsletter-image" />
+    <img src="/cs3.png" alt="Cake Overlay" className="newsletter-image" />
   </div>
 </div>
 

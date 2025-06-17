@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Chocolate Chip Cookie",
-    "image": "/public/k1.jpg",
+    "image": "/k1.jpg",
     "price": "$0.75",
     "weight": "80 gm",
     "description": "Crispy edges with gooey chocolate chunks inside."
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Oatmeal Raisin Cookie",
-    "image": "/public/k2.jpg",
+    "image": "/k2.jpg",
     "price": "$0.70",
      "weight": "75 gm",
     "description": "Wholesome oats with sweet raisins and a hint of cinnamon."
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Double Chocolate Cookie",
-    "image": "/public/k3.jpg",
+    "image": "/k3.jpg",
     "price": "$0.85",
       "weight": "90 gm",
     "description": "Rich cocoa dough loaded with chocolate chips."
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Peanut Butter Cookie",
-    "image": "/public/k4.jpg",
+    "image": "/k4.jpg",
     "price": "$0.80",
      "weight": "85 gm",
 
@@ -35,7 +35,7 @@
   {
     "id": 5,
     "name": "Red Velvet Cookie",
-    "image": "/public/k5.jpg",
+    "image": "/k5.jpg",
     "price": "$0.90",
     "weight": "95 gm",
     "description": "Red velvet cookie with a white chocolate center."
@@ -43,7 +43,7 @@
   {
     "id": 6,
     "name": "Butter Shortbread Cookie",
-    "image": "/public/k6.jpg",
+    "image": "/k6.jpg",
     "price": "$0.65",
      "weight": "70 gm",
     "description": "Classic buttery shortbread that melts in your mouth."
@@ -51,7 +51,7 @@
   {
     "id": 7,
     "name": "White Chocolate Macadamia",
-    "image": "/public/k7.jpg",
+    "image": "/k7.jpg",
     "price": "$0.95",
       "weight": "100 gm",
     "description": "Crunchy macadamia nuts with sweet white chocolate chunks."
@@ -59,7 +59,7 @@
   {
     "id": 8,
     "name": "Snickerdoodle Cookie",
-    "image": "/public/k8.jpg",
+    "image": "/k8.jpg",
     "price": "$0.70",
       "weight": "75 gm",
     "description": "Soft and chewy cinnamon-sugar coated cookie."
@@ -67,14 +67,14 @@
   {
     "id": 4,
     "name": "Peanut Butter Cookie",
-    "image": "/public/k4.jpg",
+    "image": "/k4.jpg",
     "price": "$0.80",
     "description": "Soft and chewy peanut butter cookies with crunchy bits."
   },
   {
     "id": 5,
     "name": "Red Velvet Cookie",
-    "image": "/public/k5.jpg",
+    "image": "/k5.jpg",
     "price": "$0.90",
     "description": "Red velvet cookie with a white chocolate center."
   }
